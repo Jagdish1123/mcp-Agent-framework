@@ -1,0 +1,9 @@
+{
+  "properties": [
+    {
+      "name": "notes.baseUrl",
+      "type": "java.lang.String",
+      "description": "Base URL for the notes API."
+    }
+  ]
+}
